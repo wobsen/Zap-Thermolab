@@ -1,5 +1,6 @@
 ---
-title: "TN13015: Thermolab voor IP2"
+title: "Zap Thermolab"
+
 site:
   hide_outline: true
   hide_toc: true
