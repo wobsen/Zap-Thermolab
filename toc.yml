@@ -60,11 +60,10 @@ project:
         - title: Druk
           children:
             - file: Content/Labs/druksensorijken.ipynb
-            - file: Content/Labs/ballonproef.ipynb
-            - file: Content/Labs/pV_diagram.ipynb
+        
 
         - title: Faseovergangen
           children:
             - file: Content/Labs/Verdamping.ipynb
             - file: Content/Labs/cappucino.ipynb
-            - file: Content/Labs/waxine.ipynb
+          
