@@ -9,7 +9,7 @@ site:
 
 <div style="text-align: center">
 
-# TN13015: Thermolab voor IP2
+--- Zap Thermolab ---
 
 </div>
 
