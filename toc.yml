@@ -1,7 +1,7 @@
 version: 1
 project:
   toc:
-
+    - file: index.md
 
     # simulaties #
     - title: Simulaties
