@@ -1,6 +1,9 @@
 # Introductie
 
-Dit is je portfolio voor Q2. Hierin komen de uitgewerkte simulaties en thermo labopdrachten te staan. 
+Welkom bij ons portofolio voor IP 2: Zap Thermolab!
+Hierin vind u uitgewerkte simulaties en thermo labopdrachten. Slechts het beste van het beste van de natuurkunde dat hier is terug te vinden.
+Veel lees en kijk plezier!
 
-De laboefeningen volgen later en kun je dan zelf toevoegen in de Table of Contents.
-Ook ontvang je later nieuwe simulaties.
+Met vriendelijke groeten
+Hugo & Wobbe
+
